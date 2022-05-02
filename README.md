@@ -70,10 +70,13 @@ III . METHODOLOGY
 
 Hand tracking module utilizes ML pipeline consisting of two 
 models : 
+
 1.Palm detector 
+
 2.Hand landmark 
 
 A. PALM DETECTION 
+
 To detect initial hand locations, we employ a single shot 
 detector (SSD) model for real-time application. 
 The core of SSD is predicting category scores and box offsets 
