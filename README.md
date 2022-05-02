@@ -1,4 +1,4 @@
-# Animatronic-Robot-Hand
+# Animatronic-Robot-Hand-Using-Image-Processing
 
 I. INTRODUCTION 
 
