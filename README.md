@@ -42,6 +42,15 @@ The PWM sent to the motor determines the position of the
 shaft, and based on the duration of the pulse sent via 2 the 
 control wire; the rotor will turn to the desired position which 
 represents the status of the finger. 
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/91731751/166305552-098d570c-2b5f-4f05-b61a-b0454b7f6727.png)
 
 Image Acquisition generally deals with the action of 
