@@ -1,6 +1,7 @@
 # Animatronic-Robot-Hand
 
 I. INTRODUCTION 
+
 Animatronics is a hybrid of animation and electronics. It can 
 be pre-customized (programming) or remotely controlled. It 
 is the utilization of link pulled gadgets or actuators to quicken 
@@ -66,6 +67,7 @@ reflected as the movement of servos motors which
 represents the hands of Robot.
 
 III . METHODOLOGY 
+
 Hand tracking module utilizes ML pipeline consisting of two 
 models : 
 1.Palm detector 
